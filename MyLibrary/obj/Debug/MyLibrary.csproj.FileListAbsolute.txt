@@ -1,0 +1,10 @@
+D:\Learning\ProjectToGitHub\WFA2\LapTrinhCSDLVOIC-\Projects\QuanLyBanHang_2020\MyLibrary\bin\Debug\MyLibrary.dll
+D:\Learning\ProjectToGitHub\WFA2\LapTrinhCSDLVOIC-\Projects\QuanLyBanHang_2020\MyLibrary\bin\Debug\MyLibrary.pdb
+D:\Learning\ProjectToGitHub\WFA2\LapTrinhCSDLVOIC-\Projects\QuanLyBanHang_2020\MyLibrary\obj\Debug\MyLibrary.csprojResolveAssemblyReference.cache
+D:\Learning\ProjectToGitHub\WFA2\LapTrinhCSDLVOIC-\Projects\QuanLyBanHang_2020\MyLibrary\obj\Debug\MyLibrary.dll
+D:\Learning\ProjectToGitHub\WFA2\LapTrinhCSDLVOIC-\Projects\QuanLyBanHang_2020\MyLibrary\obj\Debug\MyLibrary.pdb
+C:\Users\MyPC\Desktop\QuanLyBanHang_2020\MyLibrary\bin\Debug\MyLibrary.dll
+C:\Users\MyPC\Desktop\QuanLyBanHang_2020\MyLibrary\bin\Debug\MyLibrary.pdb
+C:\Users\MyPC\Desktop\QuanLyBanHang_2020\MyLibrary\obj\Debug\MyLibrary.csprojResolveAssemblyReference.cache
+C:\Users\MyPC\Desktop\QuanLyBanHang_2020\MyLibrary\obj\Debug\MyLibrary.dll
+C:\Users\MyPC\Desktop\QuanLyBanHang_2020\MyLibrary\obj\Debug\MyLibrary.pdb
